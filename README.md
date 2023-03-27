@@ -13,4 +13,6 @@ exercícios de Python, formato dos arquivos Jupyter Notebook
 
 [Exercício 5](https://github.com/NicolasMCP/treinando/tree/main/exercicio5-inverte_lista) Receber uma lista númerica, e devolver a lista com a ordem inversa
 
-[Exercício 6](https://github.com/NicolasMCP/treinando/tree/main/exercicio6-sobrenome_nome) Receba o nome completo, e coloque primeiro o sobrenome virgula o nome
+[Exercício 6](https://github.com/NicolasMCP/treinando/tree/main/exercicio6-sobrenome_nome) Receba o nome completo, e coloque primeiro o sobrenome virgula o nome. Variação: trate mais de um, sobrenome ou nome.
+
+[Exercício 7](https://github.com/NicolasMCP/treinando/tree/main/exercicio7-numeros_repetidos) Recebe uma lista numérica e deixa somente os números repetidos (um de cada)
