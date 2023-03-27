@@ -1,6 +1,8 @@
 # Treinando Python
 exercícios de Python, formato dos arquivos Jupyter Notebook
 
+![license1](https://img.shields.io/static/v1?label=License&message=MIT&color=orange)
+
 [Exercício 1](https://github.com/NicolasMCP/treinando/tree/main/exercicio1-soma_digitos) Somar todos os digitos de um número recebido
 
 [Exercício 2](https://github.com/NicolasMCP/treinando/tree/main/exercicio2-numeros_pares) Em uma lista manter somente os números pares da mesma
